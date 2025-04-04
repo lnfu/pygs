@@ -1,0 +1,6 @@
+glfw==2.8.0
+numpy==2.2.4
+plyfile==1.1
+pyglm==2.8.1
+PyOpenGL==3.1.9
+PyOpenGL-accelerate==3.1.9
